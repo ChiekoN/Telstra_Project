@@ -1,0 +1,6 @@
+__pycache__/*
+__pycache__/
+dnn_model_onehot_best.hdf5
+figures/*
+result_numeric.csv
+result_onehot.csv
